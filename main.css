@@ -247,3 +247,9 @@ form .btn {
         
     }
 }
+
+@media (max-width: 520px) {
+    h1 {
+        font-size: 60px;
+    }
+}
